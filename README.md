@@ -12,4 +12,4 @@
  
  <img src = "ReportGauge.jpg">
 
- <img src = "ReportGauge2.jpg>
+ <img src = "ReportGauge2.jpg">
