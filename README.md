@@ -1,0 +1,2 @@
+# JavaAppiumMobileThy
+ 
