@@ -7,6 +7,18 @@
 <img src="StartScreen.jpg">
 
 <h2>Consequences of all scenarios<h2>
+
+<h3>Brief of the scenarios </h3>
+
+<ol>
+  <li>Open the menu /li>
+  <li>Click the element that purchase ticket for flight</li>
+  <li>Adjust airline options</li>
+  <li>Choose date for after 2 days and then adjust 2 person</li>
+  <li>List by ascendes flights and chose cheapest flight</li>
+
+</ol>
+
  
  <img src = "THYMobilAutomationProjectSuccesfully.jpg">
  
