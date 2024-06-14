@@ -1,12 +1,12 @@
 # JavaAppiumMobileThy
  
-<h1>LÜTFEN BENİ OKU</h1>
+<h1>Please Read Me</h1>
 
-<p> Uygulama başlatırılırken aşağıdaki ekrandan başlatıp intellij ideadan çalıştırılırsa başarılı olacak.Thy uygulamasi java kodu ile(DesiredCapabilities sınıfı) her ayağa kaldırıldığında servis izinleri istiyor bu sebeple uygulamayi yükledikten sonra bir kere çalıştırılıp gerekli izinler verilip veya reddedilip aşağıdaki ekranda yani Main.Activity kısmında bırakılmalıdır.Sonrasında bütün test senaryoları sorunsuz bir şekilde çalışmakta.Teşekkür ederim :)</p>
+<p> Services necessary must be allowed required for run the test app seamless.That's why you must run the app after you install in the android virtual machine for just once. All test scenarios will be run properly after all these process.</p>
 
 <img src="StartScreen.jpg">
 
-<h2>TEST SENARYOLARI SONUCU<h2>
+<h2>Consequences of all scenarios<h2>
  
  <img src = "THYMobilAutomationProjectSuccesfully.jpg">
  
